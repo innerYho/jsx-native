@@ -1,0 +1,6 @@
+//qué va a convertir
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
